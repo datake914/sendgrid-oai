@@ -318,8 +318,6 @@ paths:
             required:
               - personalizations
               - from
-              - subject
-              - content
             example:
               personalizations:
                 - to:
